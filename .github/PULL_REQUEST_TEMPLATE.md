@@ -2,9 +2,7 @@
 
 Please include a summary of the change and which issue is fixed. Also, please include the motivation and context for the change. List any dependencies that are required for this change.
 
-**Git issue:**
-
-+**Check the relevant boxes:**
+**Check the relevant boxes:**
 - [ ] Bug fix (nonbreaking change that fixes an issue)
 - [ ] New feature (nonbreaking change that adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
@@ -14,7 +12,6 @@ Please include a summary of the change and which issue is fixed. Also, please in
 
 ### Checklist
 
-- [ ] The PR references a GitHub issue.
 - [ ] If relevant, a test for the change has been added or updated as part of this PR.
 - [ ] If relevant, documentation for the change has been added or updated as part of this PR.
 
