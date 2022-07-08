@@ -1,2 +1,2 @@
 # .github
-Repo to maintain organization-wide community health files
+Repo to maintain organization-wide community health files.
