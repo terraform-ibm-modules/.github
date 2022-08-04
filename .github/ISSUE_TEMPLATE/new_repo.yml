@@ -1,7 +1,7 @@
 name: 🆕 New repo
 description: Request a repo
-title: "[New repo]: New Terraform module repo to automate <THIS>"
-labels: [repo-request 🆕]
+title: "[New repo]: New Terraform module repo"
+labels: [repo-request 🆕, module-onboarding]
 body:
   - type: markdown
     attributes:
