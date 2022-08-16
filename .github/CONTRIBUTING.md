@@ -1,6 +1,6 @@
 # Welcome to IBM Cloud Terraform Modules contributing guide
 
-:+1::tada: Thank you for taking the time to our project! :tada::+1:
+:+1::tada: Thank you for taking the time to contribute to the project! :tada::+1:
 
 This guide provides an overview of the ways that you can contribute, and provides links to the details.
 
