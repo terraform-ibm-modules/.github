@@ -8,8 +8,8 @@ Read our [Code of Conduct](https://github.com/terraform-ibm-modules/.github/blob
 
 Your participation in identifying and fixing issues help us to improve the modules. Follow these steps to report an issue.
 
-1.  Try your issue against the most recent code in the `main` branch in the repository.
-1.  Check for similar issues in the repo.
+1.  Try your issue against the code in the most recent release in the repository.
+1.  Check for similar issues.
 
     :information_source: **Tip**: If you can reproduce the issue and find a closed issue that seems similar to what you're experiencing, link to the closed issue in the body of your issue.
 1.  Use the bug report template to report an issue. The requested information in the templates helps us resolve issues faster.
