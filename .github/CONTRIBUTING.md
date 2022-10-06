@@ -16,7 +16,7 @@ The following types of contributions might give you ideas about what you can con
 - Improvements and fixes to existing modules
 - New solutions that address your use cases
 
-Although code is a common contribution, you can also contribute in other ways to help the effort, such as by updating documentation, and submitting new ideas and bug reports. Post an issue in the [issue tracker repo](https://github.com/terraform-ibm-modules/terraform-ibm-issue-tracker/issues) if you want to chat about your ideas.
+Although code is a common contribution, you can also contribute in other ways to help the effort, such as by updating documentation, and submitting new ideas and bug reports. Create an issue in the [terraform-ibm-issue-tracker](https://github.com/terraform-ibm-modules/terraform-ibm-issue-tracker/issues) repo if you want to chat about your ideas.
 
 This project is built on your contributions. Delivering a draft is better than not contributing anything. Don't wait until you craft the perfect solution, start by providing your unpolished masterpiece. The maintainers can support you and help deliver something that works for the widest audience.
 
