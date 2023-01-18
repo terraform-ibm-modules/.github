@@ -1,21 +1,37 @@
 ### Description
 
-Please include a summary of the change and which issue is fixed. Also, please include the motivation and context for the change. List any dependencies that are required for this change.
+Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies.
 
-**Check the relevant boxes:**
-- [ ] Bug fix (nonbreaking change that fixes an issue)
-- [ ] New feature (nonbreaking change that adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+### Types of changes in this PR
+
+#### No release required
+
 - [ ] Examples or tests (addition or updates of examples or tests)
 - [ ] Documentation update
-- [ ] CI related update (pipeline, etc.)
+- [ ] CI-related update (pipeline, etc.)
+- [ ] Other changes that don't affect Terraform code
 
-### Checklist
+#### Release required
 
-- [ ] If relevant, a test for the change has been added or updated as part of this PR.
-- [ ] If relevant, documentation for the change has been added or updated as part of this PR.
+- [ ] Bug fix (patch release (`x.x.X`): Change that fixes an issue and is compatible with earlier versions)
+- [ ] New feature (minor release (`x.X.x`): Change that adds functionality and is compatible with earlier versions)
+- [ ] Breaking change (major release (`X.x.x`): Change that is likely incompatible with previous versions)
 
-### Merge
+##### Release notes content
 
-- Merge using "Squash and merge".
-- Make sure to use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents. The commit message determines whether a new version of the modules needs to be released, and if so, which semver number to use).
+Replace this text with information that users need to know about the bug fixes, features, and breaking changes. This information helps the merger write the commit message that is published in the release notes for the module.
+
+---
+
+### Checklist for reviewers
+
+- [ ] The PR references a GitHub issue.
+- [ ] If relevant, a test for the change is included or updated with this PR.
+- [ ] If relevant, documentation for the change is included or updated with this PR.
+
+### Merge actions for mergers
+
+- Merge by using "Squash and merge".
+- Use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author.
+
+    The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
