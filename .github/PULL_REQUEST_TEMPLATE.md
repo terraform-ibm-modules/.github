@@ -1,6 +1,6 @@
 ### Description
 
-Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies.
+Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a GIT issue for the change, please link it too.
 
 ### Types of changes in this PR
 
@@ -25,7 +25,6 @@ Replace this text with information that users need to know about the bug fixes, 
 
 ### Checklist for reviewers
 
-- [ ] The PR references a GitHub issue.
 - [ ] If relevant, a test for the change is included or updated with this PR.
 - [ ] If relevant, documentation for the change is included or updated with this PR.
 
