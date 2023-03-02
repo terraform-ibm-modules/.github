@@ -1,6 +1,6 @@
 ### Description
 
-Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a GIT issue for the change, please link it too.
+Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a Git issue for the change, please link to it.
 
 ### Types of changes in this PR
 
