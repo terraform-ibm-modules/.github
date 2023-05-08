@@ -4,22 +4,28 @@ Replace this text with a summary of the changes in this PR. Include why the chan
 
 ### Types of changes in this PR
 
-#### No release required
+#### Change(s) that impact the core Terraform module and/or any submodules
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Dependency update
 
+#### Change(s) that don't affect the core Terraform module and/or any submodules
 - [ ] Examples or tests (addition or updates of examples or tests)
 - [ ] Documentation update
 - [ ] CI-related update (pipeline, etc.)
-- [ ] Other changes that don't affect Terraform code
+- [ ] Other
 
-#### Release required
+#### Release required?
+See the following [doc](https://terraform-ibm-modules.github.io/documentation/#/versioning) which defines what types of changes should generate what kind of SemVer release, and tick the appropriate box below:
 
-- [ ] Bug fix (patch release (`x.x.X`): Change that fixes an issue and is compatible with earlier versions)
-- [ ] New feature (minor release (`x.X.x`): Change that adds functionality and is compatible with earlier versions)
-- [ ] Breaking change (major release (`X.x.x`): Change that is likely incompatible with previous versions)
+- [ ] No release
+- [ ] Patch release (`x.x.X`))
+- [ ] Minor release (`x.X.x`))
+- [ ] Major release (`X.x.x`)
 
 ##### Release notes content
 
-Replace this text with information that users need to know about the bug fixes, features, and breaking changes. This information helps the merger write the commit message that is published in the release notes for the module.
+If a release is required, replace this text with information that users need to know about the release. Word it in such a way that makes sense the consumer, and ensure to include any changes necessary to update to the new version from the previous one. This information helps the merger to prepare the commit message that will be used when squash and merging the PR, which eventually ends up being published in the release notes for the module.
 
 ---
 
@@ -30,7 +36,5 @@ Replace this text with information that users need to know about the bug fixes, 
 
 ### Merge actions for mergers
 
+- Use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author. The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
 - Merge by using "Squash and merge".
-- Use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author.
-
-    The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
