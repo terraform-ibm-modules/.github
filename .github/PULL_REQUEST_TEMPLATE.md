@@ -16,7 +16,7 @@ Replace this text with a summary of the changes in this PR. Include why the chan
 - [ ] Other
 
 #### Release required?
-See the following [doc](https://terraform-ibm-modules.github.io/documentation/#/versioning) which defines what types of changes should generate what kind of SemVer release, and tick the appropriate box below:
+Identify the type of release. For information about the changes in a semantic versioning release, see [Release versioning](https://terraform-ibm-modules.github.io/documentation/#/versioning).
 
 - [ ] No release
 - [ ] Patch release (`x.x.X`))
