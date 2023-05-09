@@ -9,7 +9,7 @@ Replace this text with a summary of the changes in this PR. Include why the chan
 - [ ] New feature
 - [ ] Dependency update
 
-#### Change(s) that don't affect the core Terraform module and/or any submodules
+#### Changes that don't affect the core Terraform module or submodules
 - [ ] Examples or tests (addition or updates of examples or tests)
 - [ ] Documentation update
 - [ ] CI-related update (pipeline, etc.)
