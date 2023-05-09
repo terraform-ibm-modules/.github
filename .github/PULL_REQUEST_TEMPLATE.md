@@ -4,7 +4,7 @@ Replace this text with a summary of the changes in this PR. Include why the chan
 
 ### Types of changes in this PR
 
-#### Change(s) that impact the core Terraform module and/or any submodules
+#### Changes that affect the core Terraform module or submodules
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Dependency update
