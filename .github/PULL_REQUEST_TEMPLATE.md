@@ -25,7 +25,9 @@ See the following [doc](https://terraform-ibm-modules.github.io/documentation/#/
 
 ##### Release notes content
 
-If a release is required, replace this text with information that users need to know about the release. Word it in such a way that makes sense the consumer, and ensure to include any changes necessary to update to the new version from the previous one. This information helps the merger to prepare the commit message that will be used when squash and merging the PR, which eventually ends up being published in the release notes for the module.
+If a release is required, replace this text with information that users need to know about the release. Write the release notes to help users understand the changes, and include information about how to update from the previous version. 
+
+Your notes helps the merger write the commit message for the PR that is published in the release notes for the module.
 
 ---
 
