@@ -19,8 +19,8 @@ Replace this text with a summary of the changes in this PR. Include why the chan
 Identify the type of release. For information about the changes in a semantic versioning release, see [Release versioning](https://terraform-ibm-modules.github.io/documentation/#/versioning).
 
 - [ ] No release
-- [ ] Patch release (`x.x.X`))
-- [ ] Minor release (`x.X.x`))
+- [ ] Patch release (`x.x.X`)
+- [ ] Minor release (`x.X.x`)
 - [ ] Major release (`X.x.x`)
 
 ##### Release notes content
