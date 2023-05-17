@@ -31,6 +31,9 @@ Your notes helps the merger write the commit message for the PR that is publishe
 
 ---
 
+> **Note**  
+If the pipeline does not automatically trigger it has been migrated to the new v2 pipeline system a `Collaboator` must post the exact comment `/run pipeline`. Only trigger a pipeline once you are happy with the PR and you are sure the tests should pass.
+
 ### Checklist for reviewers
 
 - [ ] If relevant, a test for the change is included or updated with this PR.
