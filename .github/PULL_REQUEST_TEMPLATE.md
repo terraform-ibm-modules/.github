@@ -25,14 +25,19 @@ Identify the type of release. For information about the changes in a semantic ve
 
 ##### Release notes content
 
-If a release is required, replace this text with information that users need to know about the release. Write the release notes to help users understand the changes, and include information about how to update from the previous version. 
+If a release is required, replace this text with information that users need to know about the release. Write the release notes to help users understand the changes, and include information about how to update from the previous version.
 
-Your notes helps the merger write the commit message for the PR that is published in the release notes for the module.
+Your notes help the merger write the commit message for the PR that is published in the release notes for the module.
 
----
+### Run the pipeline
 
-> **Note**  
-If the pipeline does not automatically trigger it has been migrated to the new v2 pipeline system a `Collaboator` must post the exact comment `/run pipeline`. Only trigger a pipeline once you are happy with the PR and you are sure the tests should pass.
+If the CI pipeline doesn't run when you create the PR, the module requires a user with GitHub collaborators access to run the pipeline.
+
+You run the CI pipeline when the PR is ready for review and you expect tests to pass. Add a comment to the PR with the following text:
+
+```
+/run pipeline
+```
 
 ### Checklist for reviewers
 
