@@ -31,9 +31,9 @@ Your notes help the merger write the commit message for the PR that is published
 
 ### Run the pipeline
 
-If the CI pipeline doesn't run when you create the PR, the module requires a user with GitHub collaborators access to run the pipeline.
+If the CI pipeline doesn't run when you create the PR, the PR requires a user with GitHub collaborators access to run the pipeline.
 
-You run the CI pipeline when the PR is ready for review and you expect tests to pass. Add a comment to the PR with the following text:
+Run the CI pipeline when the PR is ready for review and you expect tests to pass. Add a comment to the PR with the following text:
 
 ```
 /run pipeline
