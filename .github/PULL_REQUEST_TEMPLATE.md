@@ -2,20 +2,7 @@
 
 Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a Git issue for the change, please link to it.
 
-### Types of changes in this PR
-
-#### Changes that affect the core Terraform module or submodules
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Dependency update
-
-#### Changes that don't affect the core Terraform module or submodules
-- [ ] Examples or tests (addition or updates of examples or tests)
-- [ ] Documentation update
-- [ ] CI-related update (pipeline, etc.)
-- [ ] Other
-
-#### Release required?
+### Release required?
 Identify the type of release. For information about the changes in a semantic versioning release, see [Release versioning](https://terraform-ibm-modules.github.io/documentation/#/versioning).
 
 - [ ] No release
