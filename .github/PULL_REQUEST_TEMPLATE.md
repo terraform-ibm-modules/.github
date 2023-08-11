@@ -1,9 +1,9 @@
 ### Description
 
-Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a Git issue for the change, please link to it.
+<!--- Replace this text with a summary of the changes in this PR. Include why the changes are needed and context about the changes. List required dependencies. If there is a Git issue for the change, please link to it. --->
 
 ### Release required?
-Identify the type of release. For information about the changes in a semantic versioning release, see [Release versioning](https://terraform-ibm-modules.github.io/documentation/#/versioning).
+<!--- Identify the type of release. For information about the changes in a semantic versioning release, see [Release versioning](https://terraform-ibm-modules.github.io/documentation/#/versioning). --->
 
 - [ ] No release
 - [ ] Patch release (`x.x.X`)
@@ -12,9 +12,9 @@ Identify the type of release. For information about the changes in a semantic ve
 
 ##### Release notes content
 
-If a release is required, replace this text with information that users need to know about the release. Write the release notes to help users understand the changes, and include information about how to update from the previous version.
+<!--- If a release is required, replace this text with information that users need to know about the release. Write the release notes to help users understand the changes, and include information about how to update from the previous version.
 
-Your notes help the merger write the commit message for the PR that is published in the release notes for the module.
+Your notes help the merger write the commit message for the PR that is published in the release notes for the module. --->
 
 ### Run the pipeline
 
@@ -33,5 +33,5 @@ Run the CI pipeline when the PR is ready for review and you expect tests to pass
 
 ### Merge actions for mergers
 
-- Use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author. The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
+- When merging, use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author. The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
 - Merge by using "Squash and merge".
