@@ -1,6 +1,6 @@
 ## Welcome to IBM Cloud Terraform modules 👋
 
-🙋‍♀️ The IBM Cloud Terraform modules project is collection of Terraform modules that follow best practices and simplify the provisioning of [IBM Cloud](https://www.ibm.com/cloud) services and instances. Whether you're a consumer, developer, contributor, or just curious, we welcome you with open arms.
+🙋‍♀️ The IBM Cloud Terraform modules project is a collection of Terraform modules that follow best practices and simplify the provisioning of [IBM Cloud](https://www.ibm.com/cloud) services and instances. Whether you're a consumer, developer, contributor, or just curious, we welcome you with open arms.
 
 We're thrilled to have you as part of our open source community.
 
