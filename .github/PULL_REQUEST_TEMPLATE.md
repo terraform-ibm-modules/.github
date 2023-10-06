@@ -31,7 +31,8 @@ Run the CI pipeline when the PR is ready for review and you expect tests to pass
 - [ ] If relevant, a test for the change is included or updated with this PR.
 - [ ] If relevant, documentation for the change is included or updated with this PR.
 
-### Merge actions for mergers
+### For mergers
 
-- When merging, use a relevant [conventional commit](https://www.conventionalcommits.org/) message that is based on the PR contents and any release notes provided by the PR author. The commit message determines whether a new version of the module is needed, and if so, which semver increment to use (major, minor, or patch).
-- Merge by using "Squash and merge".
+- Use a conventional commit message to set the release level. Follow the [guidelines](https://terraform-ibm-modules.github.io/documentation/#/merging.md).
+- Include information that users need to know about the PR in the commit message. The commit message becomes part of the GitHub release notes.
+- Use the **Squash and merge** option.
