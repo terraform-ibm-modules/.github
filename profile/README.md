@@ -4,7 +4,7 @@
 
 We're thrilled to have you as part of our open source community.
 
-☁️ We're proud to announce that many of the modules are actively supported by the IBM Cloud development organization. This support allows us to provide robust, enterprise-grade solutions to the community. If you'd like to dig deeper into these modules, check out the list of [repositories](https://github.com/topics/core-team?l=hcl).
+☁️ We're proud to announce that **many of the modules are actively supported by the IBM Cloud development organization**. This support enables us to offer the community robust and enterprise-grade modules that are consistently maintained over time. If you'd like to dig deeper into these modules, check out the list of [supported modules](https://github.com/topics/core-team?l=hcl).
 
 🤝 Contributions from the community are the lifeblood of our organization. We appreciate your interest in helping us improve and grow the modules. Before you dive in, take a moment to review our [contribution guidelines](https://terraform-ibm-modules.github.io/documentation/#/contribute-module). Your contributions, big or small, are invaluable to us.
 
